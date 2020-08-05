@@ -6,7 +6,7 @@ The following are the important detils:
 a. There are two models : User and ActivityPeriod.
 
 b. The structure of the json data is nested, that is, each User may have
-multiple ActivityPeriod objects in from a list stored to a key called
+multiple ActivityPeriod objects in form of a list stored to a key called
 activity_periods.
 
 c. A REST API using djangorestframework is implemented using the necessary
