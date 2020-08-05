@@ -16,4 +16,6 @@ d. The REST API facilitates get and post requests to the endpoints built.
 
 e. A custom command called populate_db has been created. It was used to
 populate the database with a dummy entry.
+It is invoked using:
+python manage.py populate_db
 
