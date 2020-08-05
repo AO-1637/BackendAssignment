@@ -19,3 +19,6 @@ populate the database with a dummy entry.
 It is invoked using:
 python manage.py populate_db
 
+f. The project has been deployed at pythonanywhere.com and can be accessed at:
+http://ao1637.pythonanywhere.com/
+
