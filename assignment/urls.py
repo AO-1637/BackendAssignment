@@ -1,6 +1,6 @@
 '''
-This file holds detail as to what views will be rendered
-when a particular endpoint is hit
+This file holds detail as to what views will
+be rendered when a particular endpoint is hit
 '''
 
 from django.contrib import admin
